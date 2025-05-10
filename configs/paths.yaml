@@ -12,4 +12,4 @@ data_paths:
   cleaned_data_path: data/cleaned/cleaned_data.csv
 
 artifacts_paths:
-  model_path: models/xgboost_model.pkl
+  xg_model_path: models/xgboost_model.pkl
