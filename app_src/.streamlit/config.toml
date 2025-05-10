@@ -1,0 +1,16 @@
+[theme]
+primaryColor = "#626F47"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f0f2f6"
+textColor = "#2C3930"
+font = "sans serif"
+
+[server]
+headless = true
+enableCORS = false
+
+[client]
+showSidebarNavigation = true
+
+[ui]
+pageTitle = "Rain Predection App"
