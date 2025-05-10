@@ -1,0 +1,15 @@
+dirs:
+  data_dir: data
+  model_dir: models
+  config_dir: confgs
+  raw_data_dir: data/raw
+  processed_data_dir: data/processed
+  artifacts_dir: artifacts
+
+data_paths:
+  raw_data_path: data/raw/weatherAUS.csv
+  processed_data_path: data/processed/xg_weatherAUS_processed.csv
+  cleaned_data_path: data/cleaned/cleaned_data.csv
+
+artifacts_paths:
+  model_path: models/xgboost_model.pkl
