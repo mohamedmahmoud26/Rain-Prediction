@@ -6,7 +6,6 @@ import os
 import random
 
 
-
 def correct_path(path_type, name):
     config_path = os.path.join("..", "configs", "paths.yaml")
     with open(config_path, "r") as file:
