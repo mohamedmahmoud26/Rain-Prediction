@@ -43,46 +43,7 @@ pip install -r requirements.txt
 ### 4. Run the Streamlit App
 ```bash
 streamlit run app.py
-```
-------
-
-To run this project, make sure you have the following installed:
-
-- Python 3.8 or higher
-- pandas
-- numpy
-- scikit-learn
-- xgboost
-- imbalanced-learn
-- streamlit
-- matplotlib (optional, for data visualization)
-- seaborn (optional, for data visualization)
-------
-## Usage Example
-
-Once the app is running, you can:
-
-1. View the main page and read project details.
-2. Upload a CSV file with weather data, or use the default sample.
-3. Click the "Predict" button to see if it will rain tomorrow.
-4. Explore the results, prediction, and model performance.
-
-Example CSV format:
-```csv
-MinTemp,MaxTemp,Rainfall,Humidity3pm,Pressure3pm,RainToday
-14.0,24.3,0.0,44,1015.0,No
-13.7,23.4,0.0,38,1012.8,No
-...
-```
-
-Expected output:
-```
-Prediction: It will NOT rain tomorrow 
-```
-or
-```
-Prediction: It WILL rain tomorrow
-```
+``
 -------------
 ## Useful Links
 
