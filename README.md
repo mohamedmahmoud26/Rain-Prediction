@@ -7,9 +7,13 @@ The project leverages machine learning techniques to analyze various meteorologi
 ---
 
 
-ividuals**: Planning their day, choosing appropriate clothing, or deciding whether to carry an umbrella.
+## Project Goal / Problem Statement
+
+Many individuals and sectors rely on weather forecasts for daily or operational decision-making, including:
+
+- **Individuals**: Planning their day, choosing appropriate clothing, or deciding whether to carry an umbrella.
 - **Agriculture**: Scheduling irrigation and harvesting.
-- **Transportation**: Minimizing risks caused by weather conditions.
+- **Transportation**: Minimizing risks caused by weather conditions
 
 ### Our main goal is:
 **To build a smart system that predicts whether it will rain tomorrow based on today’s weather data.**
