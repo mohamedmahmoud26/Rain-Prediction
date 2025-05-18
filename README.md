@@ -1,6 +1,6 @@
 # Rain Prediction Project - Team SkyCast
 
-### Project Overview
+## Project Overview
 
 The Rain Prediction Project aims to build an intelligent model capable of predicting whether it will rain tomorrow based on real-world weather data collected from Australian weather stations.  
 The project leverages machine learning techniques to analyze various meteorological features such as temperature, humidity, wind speed, air pressure, and more, in order to make accurate predictions that assist in weather forecasting.
