@@ -1,4 +1,4 @@
-# Rain Prediction Project - Team SkyCast
+## Rain Prediction Project - Team SkyCast
 
 ### Project Overview
 
